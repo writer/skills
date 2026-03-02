@@ -11,7 +11,7 @@ metadata:
   display_name: "New Product Launch Readiness"
   short_description: "Assess CPG new product launch readiness and go-to-market"
   default_prompt: "Optimize my new product launch and suggest the best next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - commerce-intelligence
     - new-product-launch-readiness

@@ -6,7 +6,7 @@ metadata:
   display_name: "Population Trend Narratives"
   short_description: "Narrate population health trends in plain language"
   default_prompt: "Summarize my population trend with key findings and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

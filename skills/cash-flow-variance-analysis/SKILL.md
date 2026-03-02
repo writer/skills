@@ -6,7 +6,7 @@ metadata:
   display_name: "Cash Flow Variance Analysis"
   short_description: "Explain cash flow variance drivers including actual vs."
   default_prompt: "Analyze my cash flow variance and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

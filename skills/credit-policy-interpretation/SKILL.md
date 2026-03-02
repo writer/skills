@@ -6,7 +6,7 @@ metadata:
   display_name: "Credit Policy Interpretation"
   short_description: "Interpret credit policy rules, exceptions, and eligibility"
   default_prompt: "Explain my credit policy in simple words and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

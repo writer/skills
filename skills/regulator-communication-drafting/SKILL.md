@@ -6,7 +6,7 @@ metadata:
   display_name: "Regulator Communication Drafting"
   short_description: "Draft regulatory correspondence for bank supervisors"
   default_prompt: "Generate regulator communication for my case with clear next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

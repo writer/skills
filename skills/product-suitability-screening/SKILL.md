@@ -6,7 +6,7 @@ metadata:
   display_name: "Product Suitability Screening"
   short_description: "Screen investment product suitability per Reg BI standards"
   default_prompt: "Check my product suitability screening for gaps risks and required fixes"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

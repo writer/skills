@@ -6,7 +6,7 @@ metadata:
   display_name: "Audit Prep Assistant"
   short_description: "Prepare CPG audit documentation and compliance evidence"
   default_prompt: "Check my audit prep for gaps risks and required fixes"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

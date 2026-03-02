@@ -11,7 +11,7 @@ metadata:
   display_name: "Price Elasticity Estimator"
   short_description: "Estimate price elasticity and volume impact of changes"
   default_prompt: "Optimize my price elasticity estimator and suggest the best next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - commerce-intelligence
     - price-elasticity-estimator

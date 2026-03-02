@@ -6,7 +6,7 @@ metadata:
   display_name: "Trade Spend Roi Analyzer"
   short_description: "Analyze CPG trade spend ROI and promotional effectiveness"
   default_prompt: "Analyze my trade spend roi and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

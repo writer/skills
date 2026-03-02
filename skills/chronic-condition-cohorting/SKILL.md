@@ -6,7 +6,7 @@ metadata:
   display_name: "Chronic Condition Cohorting"
   short_description: "Segment chronic disease patients into risk-based cohorts"
   default_prompt: "Analyze my chronic condition cohorting and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

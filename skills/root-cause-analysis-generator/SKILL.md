@@ -6,7 +6,7 @@ metadata:
   display_name: "Root Cause Analysis Generator"
   short_description: "Generate root cause analysis drafts for safety events"
   default_prompt: "Generate root cause for my case with clear next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

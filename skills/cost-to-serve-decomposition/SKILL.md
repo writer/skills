@@ -6,7 +6,7 @@ metadata:
   display_name: "Cost To Serve Decomposition"
   short_description: "Decompose banking cost-to-serve by channel and segment"
   default_prompt: "Analyze my cost to serve decomposition and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

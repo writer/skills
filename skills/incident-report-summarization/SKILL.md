@@ -6,7 +6,7 @@ metadata:
   display_name: "Incident Report Summarization"
   short_description: "Summarize patient safety incidents into actionable reports"
   default_prompt: "Summarize my incident report with key findings and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

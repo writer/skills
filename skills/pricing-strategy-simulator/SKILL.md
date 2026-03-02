@@ -6,7 +6,7 @@ metadata:
   display_name: "Pricing Strategy Simulator"
   short_description: "Simulate CPG pricing scenarios with elasticity modeling"
   default_prompt: "Simulate my pricing strategy options and suggest the best next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

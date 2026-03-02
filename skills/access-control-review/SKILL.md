@@ -6,7 +6,7 @@ metadata:
   display_name: "Access Control Review"
   short_description: "Review access controls and segregation of duties for banks"
   default_prompt: "Check my access control for gaps risks and required fixes"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

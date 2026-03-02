@@ -6,7 +6,7 @@ metadata:
   display_name: "Branch Performance Analysis"
   short_description: "Analyze retail bank branch performance and productivity"
   default_prompt: "Analyze my branch performance and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

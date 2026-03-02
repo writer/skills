@@ -6,7 +6,7 @@ metadata:
   display_name: "Client Communication Drafting"
   short_description: "Draft compliant wealth management client communications"
   default_prompt: "Generate client communication for my case with clear next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

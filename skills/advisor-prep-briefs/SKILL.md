@@ -6,7 +6,7 @@ metadata:
   display_name: "Advisor Prep Briefs"
   short_description: "Build meeting preparation briefs for financial advisors"
   default_prompt: "Optimize my meeting preparation for financial advisors and suggest the best next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

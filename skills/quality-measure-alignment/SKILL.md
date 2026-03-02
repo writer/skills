@@ -6,7 +6,7 @@ metadata:
   display_name: "Quality Measure Alignment"
   short_description: "Align workflows to HEDIS, STARS, and MIPS measures"
   default_prompt: "Map my quality measure alignment and show key friction points and improvements"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

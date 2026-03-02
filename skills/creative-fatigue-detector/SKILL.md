@@ -10,7 +10,7 @@ metadata:
   display_name: "Creative Fatigue Detector"
   short_description: "Detect ad creative fatigue and recommend refresh timing"
   default_prompt: "Review my creative fatigue and highlight top risks and next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

@@ -6,7 +6,7 @@ metadata:
   display_name: "Packaging Copy Validator"
   short_description: "Validate CPG packaging copy for legal and label compliance"
   default_prompt: "Check my packaging copy for gaps risks and required fixes"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

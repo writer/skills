@@ -6,7 +6,7 @@ metadata:
   display_name: "Content Performance Explainer"
   short_description: "Explain e-commerce content performance drivers and KPIs"
   default_prompt: "Explain my content performance in simple words and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

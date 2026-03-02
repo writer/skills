@@ -6,7 +6,7 @@ metadata:
   display_name: "Credit Memo Generator"
   short_description: "Generate commercial and institutional lending credit memos"
   default_prompt: "Generate credit memo for my case with clear next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

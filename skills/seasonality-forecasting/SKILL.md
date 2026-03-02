@@ -11,7 +11,7 @@ metadata:
   display_name: "Seasonality Forecasting"
   short_description: "Forecast seasonal demand patterns for inventory planning"
   default_prompt: "Optimize my seasonality forecasting and suggest the best next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - commerce-intelligence
     - seasonality-forecasting

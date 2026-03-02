@@ -6,7 +6,7 @@ metadata:
   display_name: "Contract Clause Analyzer"
   short_description: "Analyze CPG contracts for risky or missing clauses"
   default_prompt: "Analyze my contract clause and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

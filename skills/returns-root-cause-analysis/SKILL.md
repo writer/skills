@@ -6,7 +6,7 @@ metadata:
   display_name: "Returns Root Cause Analysis"
   short_description: "Diagnose root causes of product returns across channels"
   default_prompt: "Analyze my returns root cause and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

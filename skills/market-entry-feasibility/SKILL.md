@@ -6,7 +6,7 @@ metadata:
   display_name: "Market Entry Feasibility"
   short_description: "Assess bank market entry and expansion feasibility"
   default_prompt: "Analyze my market entry feasibility and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

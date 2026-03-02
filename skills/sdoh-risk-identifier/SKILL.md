@@ -6,7 +6,7 @@ metadata:
   display_name: "Sdoh Risk Identifier"
   short_description: "Screen for social determinants of health risk factors"
   default_prompt: "Review my sdoh risk and highlight top risks and next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

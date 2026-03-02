@@ -6,7 +6,7 @@ metadata:
   display_name: "Preventive Care Gap Finder"
   short_description: "Find missed preventive care and screening gaps per HEDIS"
   default_prompt: "Check my preventive care gap for gaps risks and required fixes"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

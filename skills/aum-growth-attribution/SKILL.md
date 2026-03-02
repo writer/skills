@@ -6,7 +6,7 @@ metadata:
   display_name: "Aum Growth Attribution"
   short_description: "Break down AUM growth by market, flows, and attrition"
   default_prompt: "Analyze my aum growth attribution and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

@@ -6,7 +6,7 @@ metadata:
   display_name: "Value Based Care Readiness"
   short_description: "Assess organizational readiness for value-based care deals"
   default_prompt: "Optimize my value based care and suggest the best next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

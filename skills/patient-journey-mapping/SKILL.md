@@ -6,7 +6,7 @@ metadata:
   display_name: "Patient Journey Mapping"
   short_description: "Map end-to-end patient journeys and identify friction points"
   default_prompt: "Map my patient journey and show key friction points and improvements"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

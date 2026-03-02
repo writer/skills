@@ -6,7 +6,7 @@ metadata:
   display_name: "Stress Test Scenario Narratives"
   short_description: "Write CCAR/DFAST stress test scenario narratives for banks"
   default_prompt: "Summarize my stress test scenario with key findings and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

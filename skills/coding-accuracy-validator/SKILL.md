@@ -6,7 +6,7 @@ metadata:
   display_name: "Coding Accuracy Validator"
   short_description: "Validate ICD-10 and CPT code accuracy against documentation"
   default_prompt: "Check my coding accuracy for gaps risks and required fixes"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

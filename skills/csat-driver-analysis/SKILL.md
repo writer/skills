@@ -6,7 +6,7 @@ metadata:
   display_name: "Csat Driver Analysis"
   short_description: "Decompose CSAT score changes into operational root drivers"
   default_prompt: "Analyze my csat driver and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

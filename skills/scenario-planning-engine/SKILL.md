@@ -6,7 +6,7 @@ metadata:
   display_name: "Scenario Planning Engine"
   short_description: "Build what-if scenario models for CPG strategic planning"
   default_prompt: "Optimize my what if scenario models for cpg and suggest the best next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

@@ -6,7 +6,7 @@ metadata:
   display_name: "Stress Liquidity Narratives"
   short_description: "Narrate liquidity stress test scenarios and impact"
   default_prompt: "Summarize my stress liquidity with key findings and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

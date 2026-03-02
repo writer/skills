@@ -6,7 +6,7 @@ metadata:
   display_name: "Channel Conflict Analyzer"
   short_description: "Detect cross-channel pricing and distribution conflicts"
   default_prompt: "Analyze my channel conflict and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

@@ -6,7 +6,7 @@ metadata:
   display_name: "Digital Channel Migration Analysis"
   short_description: "Analyze bank digital channel adoption and migration trends"
   default_prompt: "Analyze my digital channel migration and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

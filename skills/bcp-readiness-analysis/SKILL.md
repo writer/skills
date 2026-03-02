@@ -6,7 +6,7 @@ metadata:
   display_name: "Bcp Readiness Analysis"
   short_description: "Assess bank business continuity and disaster readiness"
   default_prompt: "Optimize my bank business continuity and disaster and suggest the best next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

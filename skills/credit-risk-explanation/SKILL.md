@@ -6,7 +6,7 @@ metadata:
   display_name: "Credit Risk Explanation"
   short_description: "Explain credit risk drivers, scoring, and loss estimation"
   default_prompt: "Explain my credit risk in simple words and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

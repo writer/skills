@@ -6,7 +6,7 @@ metadata:
   display_name: "Referral Leakage Detection"
   short_description: "Detect out-of-network referral leakage patterns and revenue"
   default_prompt: "Review my referral leakage and highlight top risks and next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

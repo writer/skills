@@ -6,7 +6,7 @@ metadata:
   display_name: "A/b Test Hypothesis Generator"
   short_description: "Generate A/B test hypotheses for e-commerce content"
   default_prompt: "Generate a b test hypothesis for my case"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

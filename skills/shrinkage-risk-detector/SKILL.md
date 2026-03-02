@@ -6,7 +6,7 @@ metadata:
   display_name: "Shrinkage Risk Detector"
   short_description: "Detect retail shrinkage risk from inventory and POS data"
   default_prompt: "Review my shrinkage risk and highlight top risks and next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

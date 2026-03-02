@@ -6,7 +6,7 @@ metadata:
   display_name: "Ops Automation Opportunity Finder"
   short_description: "Find RPA and automation opportunities in bank operations"
   default_prompt: "Check my ops automation opportunity for gaps risks and required fixes"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

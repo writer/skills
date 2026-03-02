@@ -6,7 +6,7 @@ metadata:
   display_name: "Margin Decomposition"
   short_description: "Decompose CPG margin changes with waterfall analysis"
   default_prompt: "Analyze my margin decomposition and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

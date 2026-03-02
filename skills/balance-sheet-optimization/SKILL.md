@@ -6,7 +6,7 @@ metadata:
   display_name: "Balance Sheet Optimization"
   short_description: "Optimize bank balance sheet and capital efficiency"
   default_prompt: "Optimize my bank balance sheet and capital efficiency and suggest the best next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

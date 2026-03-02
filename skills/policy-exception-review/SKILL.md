@@ -6,7 +6,7 @@ metadata:
   display_name: "Policy Exception Review"
   short_description: "Review bank policy exceptions for risk patterns and gaps"
   default_prompt: "Check my policy exception for gaps risks and required fixes"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

@@ -11,7 +11,7 @@ metadata:
   display_name: "Cross Sell Opportunity Engine"
   short_description: "Identify cross-sell opportunities via product affinity"
   default_prompt: "Optimize my cross sell opportunity and suggest the best next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

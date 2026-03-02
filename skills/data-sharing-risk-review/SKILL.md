@@ -6,7 +6,7 @@ metadata:
   display_name: "Data Sharing Risk Review"
   short_description: "Review CPG-retailer data sharing privacy and compliance risks"
   default_prompt: "Check my data sharing risk for gaps risks and required fixes"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

@@ -6,7 +6,7 @@ metadata:
   display_name: "Data Access Governance"
   short_description: "Enforce HIPAA data access policies and controls for PHI"
   default_prompt: "Check my data access governance for gaps risks and required fixes"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

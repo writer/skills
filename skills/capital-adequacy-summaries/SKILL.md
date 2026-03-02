@@ -6,7 +6,7 @@ metadata:
   display_name: "Capital Adequacy Summaries"
   short_description: "Summarize capital adequacy ratios and regulatory buffers"
   default_prompt: "Summarize my capital adequacy with key findings and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

@@ -6,7 +6,7 @@ metadata:
   display_name: "Care Program Effectiveness"
   short_description: "Evaluate care management program outcomes and ROI impact"
   default_prompt: "Analyze my care program effectiveness and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

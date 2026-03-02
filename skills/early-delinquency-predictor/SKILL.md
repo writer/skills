@@ -6,7 +6,7 @@ metadata:
   display_name: "Early Delinquency Predictor"
   short_description: "Predict early-stage loan delinquency and default risk"
   default_prompt: "Review my early delinquency and highlight top risks and next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

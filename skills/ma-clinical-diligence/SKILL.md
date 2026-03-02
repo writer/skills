@@ -6,7 +6,7 @@ metadata:
   display_name: "Ma Clinical Diligence"
   short_description: "Run clinical due diligence for healthcare M&A targets"
   default_prompt: "Analyze my ma clinical diligence and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

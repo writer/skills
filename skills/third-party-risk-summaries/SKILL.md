@@ -6,7 +6,7 @@ metadata:
   display_name: "Third Party Risk Summaries"
   short_description: "Summarize third-party vendor risk assessments for banks"
   default_prompt: "Summarize my third party risk with key findings and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

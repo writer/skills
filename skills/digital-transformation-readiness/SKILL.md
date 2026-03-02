@@ -6,7 +6,7 @@ metadata:
   display_name: "Digital Transformation Readiness"
   short_description: "Assess bank digital transformation readiness and maturity"
   default_prompt: "Optimize my digital transformation and suggest the best next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

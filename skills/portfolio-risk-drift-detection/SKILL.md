@@ -6,7 +6,7 @@ metadata:
   display_name: "Portfolio Risk Drift Detection"
   short_description: "Detect credit risk drift in lending portfolios over time"
   default_prompt: "Review my portfolio risk drift and highlight top risks and next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

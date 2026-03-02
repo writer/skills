@@ -6,7 +6,7 @@ metadata:
   display_name: "Enterprise Risk Heatmap Narratives"
   short_description: "Write enterprise risk heatmap narratives for bank boards"
   default_prompt: "Summarize my enterprise risk heatmap with key findings and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

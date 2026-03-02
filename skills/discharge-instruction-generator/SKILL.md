@@ -6,7 +6,7 @@ metadata:
   display_name: "Discharge Instruction Generator"
   short_description: "Generate CMS-compliant patient discharge instructions"
   default_prompt: "Generate discharge instruction for my case with clear next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

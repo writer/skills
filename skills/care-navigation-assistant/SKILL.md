@@ -6,7 +6,7 @@ metadata:
   display_name: "Care Navigation Assistant"
   short_description: "Guide patients through complex care pathways and referrals"
   default_prompt: "Help me with care navigation and give clear next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

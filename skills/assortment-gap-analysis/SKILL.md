@@ -11,7 +11,7 @@ metadata:
   display_name: "Assortment Gap Analysis"
   short_description: "Find product assortment gaps versus market demand signals"
   default_prompt: "Analyze my assortment gap and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - commerce-intelligence
     - assortment-gap-analysis

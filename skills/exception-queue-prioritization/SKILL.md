@@ -6,7 +6,7 @@ metadata:
   display_name: "Exception Queue Prioritization"
   short_description: "Prioritize and triage banking operations exception queues"
   default_prompt: "Check my exception queue prioritization for gaps risks and required fixes"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

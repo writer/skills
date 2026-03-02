@@ -6,7 +6,7 @@ metadata:
   display_name: "Underwriting Consistency Checker"
   short_description: "Check loan underwriting for bias, consistency, and fairness"
   default_prompt: "Check my underwriting consistency for gaps risks and required fixes"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

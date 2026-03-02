@@ -6,7 +6,7 @@ metadata:
   display_name: "Clinical Note Structuring"
   short_description: "Convert free-text clinical notes into structured SOAP format"
   default_prompt: "Generate clinical note for my case with clear next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

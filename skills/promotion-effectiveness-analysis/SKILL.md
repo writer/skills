@@ -11,7 +11,7 @@ metadata:
   display_name: "Promotion Effectiveness Analysis"
   short_description: "Evaluate trade promotion ROI, lift, and spending efficiency"
   default_prompt: "Analyze my promotion effectiveness and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - commerce-intelligence
     - promotion-effectiveness-analysis

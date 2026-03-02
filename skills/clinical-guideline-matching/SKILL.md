@@ -6,7 +6,7 @@ metadata:
   display_name: "Clinical Guideline Matching"
   short_description: "Match patients to evidence-based clinical guidelines"
   default_prompt: "Optimize my clinical guideline matching and suggest the best next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

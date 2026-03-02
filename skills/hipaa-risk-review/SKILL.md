@@ -6,7 +6,7 @@ metadata:
   display_name: "Hipaa Risk Review"
   short_description: "Assess HIPAA privacy and security compliance risks"
   default_prompt: "Check my hipaa risk for gaps risks and required fixes"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

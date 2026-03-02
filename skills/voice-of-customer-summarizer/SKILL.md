@@ -6,7 +6,7 @@ metadata:
   display_name: "Voice Of Customer Summarizer"
   short_description: "Summarize customer feedback across all channels at scale"
   default_prompt: "Help me with voice of customer summarizer and give clear next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

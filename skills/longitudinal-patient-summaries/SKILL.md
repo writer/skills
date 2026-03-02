@@ -6,7 +6,7 @@ metadata:
   display_name: "Longitudinal Patient Summaries"
   short_description: "Build multi-year patient clinical event timeline summaries"
   default_prompt: "Summarize my longitudinal patient with key findings and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

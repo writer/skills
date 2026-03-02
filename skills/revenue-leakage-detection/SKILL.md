@@ -6,7 +6,7 @@ metadata:
   display_name: "Revenue Leakage Detection"
   short_description: "Find revenue leakage in the healthcare revenue cycle"
   default_prompt: "Review my revenue leakage and highlight top risks and next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

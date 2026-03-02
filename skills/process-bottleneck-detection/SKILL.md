@@ -6,7 +6,7 @@ metadata:
   display_name: "Process Bottleneck Detection"
   short_description: "Detect bottlenecks in banking operations processes"
   default_prompt: "Review my process bottleneck and highlight top risks and next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

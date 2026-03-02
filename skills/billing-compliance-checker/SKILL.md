@@ -6,7 +6,7 @@ metadata:
   display_name: "Billing Compliance Checker"
   short_description: "Audit healthcare billing for regulatory compliance"
   default_prompt: "Check my billing compliance for gaps risks and required fixes"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

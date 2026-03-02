@@ -6,7 +6,7 @@ metadata:
   display_name: "Clinical Documentation Quality"
   short_description: "Assess medical record documentation quality and gaps"
   default_prompt: "Help me with clinical documentation quality and give clear next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

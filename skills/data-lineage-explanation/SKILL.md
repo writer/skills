@@ -6,7 +6,7 @@ metadata:
   display_name: "Data Lineage Explanation"
   short_description: "Explain data lineage and traceability for bank reporting"
   default_prompt: "Explain my data lineage in simple words and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

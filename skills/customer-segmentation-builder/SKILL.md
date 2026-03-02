@@ -11,7 +11,7 @@ metadata:
   display_name: "Customer Segmentation Builder"
   short_description: "Build customer segments using RFM and behavior data"
   default_prompt: "Optimize my customer segmentation builder and suggest the best next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

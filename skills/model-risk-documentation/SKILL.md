@@ -6,7 +6,7 @@ metadata:
   display_name: "Model Risk Documentation"
   short_description: "Document model risk management per SR 11-7 guidelines"
   default_prompt: "Review my risk documentation and highlight top risks and next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

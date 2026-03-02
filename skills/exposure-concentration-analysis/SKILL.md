@@ -6,7 +6,7 @@ metadata:
   display_name: "Exposure Concentration Analysis"
   short_description: "Analyze lending portfolio concentration by sector and name"
   default_prompt: "Analyze my exposure concentration and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

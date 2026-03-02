@@ -6,7 +6,7 @@ metadata:
   display_name: "Service Line Profitability"
   short_description: "Analyze clinical service line profitability and margins"
   default_prompt: "Analyze my service line profitability and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

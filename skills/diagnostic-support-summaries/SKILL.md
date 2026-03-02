@@ -6,7 +6,7 @@ metadata:
   display_name: "Diagnostic Support Summaries"
   short_description: "Synthesize clinical findings into diagnostic summaries"
   default_prompt: "Help me with synthesize clinical findings into diagnostic and give clear next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

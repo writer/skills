@@ -11,7 +11,7 @@ metadata:
   display_name: "Retention Playbook Generator"
   short_description: "Build lifecycle retention playbooks for retail brands"
   default_prompt: "Optimize my lifecycle retention playbooks for retail brands and suggest the best next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

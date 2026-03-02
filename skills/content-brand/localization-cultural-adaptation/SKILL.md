@@ -6,7 +6,7 @@ metadata:
   display_name: "Localization & Cultural Adaptation"
   short_description: "Localize retail content with cultural adaptation and QA"
   default_prompt: "Check my localization cultural adaptation for gaps risks and required fixes"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"
