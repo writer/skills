@@ -6,7 +6,7 @@ metadata:
   display_name: "Nps Action Planner"
   short_description: "Turn NPS feedback into prioritized improvement actions"
   default_prompt: "Optimize my nps action and suggest the best next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

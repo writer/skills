@@ -6,7 +6,7 @@ metadata:
   display_name: "Clinical Audit Prep"
   short_description: "Prepare for clinical accreditation and CMS audit surveys"
   default_prompt: "Check my clinical audit prep for gaps risks and required fixes"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

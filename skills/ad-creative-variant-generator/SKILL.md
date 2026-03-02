@@ -10,7 +10,7 @@ metadata:
   display_name: "Ad Creative Variant Generator"
   short_description: "Create multi-format ad creative variations for CPG"
   default_prompt: "Generate ad creative variant for my case with clear next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

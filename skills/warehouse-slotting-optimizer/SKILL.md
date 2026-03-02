@@ -6,7 +6,7 @@ metadata:
   display_name: "Warehouse Slotting Optimizer"
   short_description: "Optimize warehouse product slotting and pick placement"
   default_prompt: "Optimize my warehouse slotting and suggest the best next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

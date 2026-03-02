@@ -6,7 +6,7 @@ metadata:
   display_name: "Customer Lifetime Value Banking"
   short_description: "Model customer lifetime value for banking relationships"
   default_prompt: "Optimize my customer lifetime value banking and suggest the best next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

@@ -6,7 +6,7 @@ metadata:
   display_name: "Health Literacy Adapter"
   short_description: "Adapt healthcare content to patient literacy levels"
   default_prompt: "Generate health literacy for my case with clear next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

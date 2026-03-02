@@ -6,7 +6,7 @@ metadata:
   display_name: "Omnichannel Journey Mapper"
   short_description: "Map omnichannel customer journeys and friction points"
   default_prompt: "Map my omnichannel journey and show key friction points and improvements"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

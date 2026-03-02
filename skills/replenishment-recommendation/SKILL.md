@@ -6,7 +6,7 @@ metadata:
   display_name: "Replenishment Recommendation"
   short_description: "Recommend optimal reorder quantities, timing, and safety stock"
   default_prompt: "Optimize my replenishment recommendation and suggest the best next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

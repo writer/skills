@@ -6,7 +6,7 @@ metadata:
   display_name: "Logistics Cost Optimization"
   short_description: "Optimize logistics costs across transport and warehousing"
   default_prompt: "Optimize my logistics cost and suggest the best next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

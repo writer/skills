@@ -6,7 +6,7 @@ metadata:
   display_name: "Variation Of Care Analysis"
   short_description: "Analyze unwarranted clinical care variation by provider"
   default_prompt: "Analyze my variation of care and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

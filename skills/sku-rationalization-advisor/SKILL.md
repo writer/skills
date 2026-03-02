@@ -11,7 +11,7 @@ metadata:
   display_name: "SKU Rationalization Advisor"
   short_description: "Advise on SKU keep, delist, or consolidate actions"
   default_prompt: "Optimize my sku rationalization and suggest the best next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - commerce-intelligence
     - sku-rationalization-advisor

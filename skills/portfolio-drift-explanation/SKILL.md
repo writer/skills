@@ -6,7 +6,7 @@ metadata:
   display_name: "Portfolio Drift Explanation"
   short_description: "Explain portfolio allocation drift with rebalancing advice"
   default_prompt: "Explain my portfolio drift in simple words and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

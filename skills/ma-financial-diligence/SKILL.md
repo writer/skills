@@ -6,7 +6,7 @@ metadata:
   display_name: "M&A Financial Diligence"
   short_description: "Run financial due diligence for bank M&A transactions"
   default_prompt: "Analyze my m a financial diligence and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

@@ -6,7 +6,7 @@ metadata:
   display_name: "Consent Documentation Validator"
   short_description: "Validate informed consent form completeness and compliance"
   default_prompt: "Check my consent documentation for gaps risks and required fixes"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

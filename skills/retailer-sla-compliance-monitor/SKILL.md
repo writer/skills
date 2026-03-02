@@ -6,7 +6,7 @@ metadata:
   display_name: "Retailer Sla Compliance Monitor"
   short_description: "Monitor CPG-retailer SLA compliance and chargebacks"
   default_prompt: "Check my retailer sla compliance for gaps risks and required fixes"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

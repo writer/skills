@@ -6,7 +6,7 @@ metadata:
   display_name: "Care Pathway Summarization"
   short_description: "Summarize patient care journeys across clinical encounters"
   default_prompt: "Summarize my care pathway with key findings and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

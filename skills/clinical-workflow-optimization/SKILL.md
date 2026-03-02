@@ -6,7 +6,7 @@ metadata:
   display_name: "Clinical Workflow Optimization"
   short_description: "Find and fix clinical workflow bottlenecks and waste"
   default_prompt: "Optimize my clinical workflow and suggest the best next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

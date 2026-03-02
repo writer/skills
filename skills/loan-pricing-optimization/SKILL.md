@@ -6,7 +6,7 @@ metadata:
   display_name: "Loan Pricing Optimization"
   short_description: "Optimize risk-adjusted loan pricing using PD/LGD models"
   default_prompt: "Optimize my loan pricing and suggest the best next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

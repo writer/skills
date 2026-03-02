@@ -6,7 +6,7 @@ metadata:
   display_name: "No Show Risk Predictor"
   short_description: "Predict patient appointment no-show probability and risk"
   default_prompt: "Review my no show risk and highlight top risks and next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

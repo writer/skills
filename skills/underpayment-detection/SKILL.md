@@ -6,7 +6,7 @@ metadata:
   display_name: "Underpayment Detection"
   short_description: "Detect payer underpayments versus contracted rate schedules"
   default_prompt: "Review my detect payer underpayments versus contracted rate and highlight top risks and next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

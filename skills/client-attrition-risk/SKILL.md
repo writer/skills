@@ -6,7 +6,7 @@ metadata:
   display_name: "Client Attrition Risk"
   short_description: "Predict wealth management client attrition risk signals"
   default_prompt: "Optimize my client attrition risk and suggest the best next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

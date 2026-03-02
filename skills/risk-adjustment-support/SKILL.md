@@ -6,7 +6,7 @@ metadata:
   display_name: "Risk Adjustment Support"
   short_description: "Optimize HCC coding accuracy and risk adjustment scores"
   default_prompt: "Help me with risk adjustment and give clear next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

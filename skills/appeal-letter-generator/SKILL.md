@@ -6,7 +6,7 @@ metadata:
   display_name: "Appeal Letter Generator"
   short_description: "Draft evidence-based healthcare claim denial appeal letters"
   default_prompt: "Generate appeal letter for my case with clear next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

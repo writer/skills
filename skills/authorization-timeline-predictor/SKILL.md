@@ -6,7 +6,7 @@ metadata:
   display_name: "Authorization Timeline Predictor"
   short_description: "Forecast prior authorization timelines and delay risks"
   default_prompt: "Review my authorization timeline and highlight top risks and next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

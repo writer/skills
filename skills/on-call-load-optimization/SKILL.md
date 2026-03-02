@@ -6,7 +6,7 @@ metadata:
   display_name: "On Call Load Optimization"
   short_description: "Optimize provider on-call schedule equity and fairness"
   default_prompt: "Optimize my on call load and suggest the best next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

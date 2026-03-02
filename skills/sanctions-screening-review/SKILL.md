@@ -6,7 +6,7 @@ metadata:
   display_name: "Sanctions Screening Review"
   short_description: "Review OFAC sanctions screening hits and match decisions"
   default_prompt: "Check my sanctions screening for gaps risks and required fixes"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

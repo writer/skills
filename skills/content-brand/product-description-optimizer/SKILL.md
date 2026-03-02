@@ -6,7 +6,7 @@ metadata:
   display_name: "Product Description Optimizer"
   short_description: "Optimize product detail page copy for SEO and conversion"
   default_prompt: "Optimize my product description and suggest the best next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

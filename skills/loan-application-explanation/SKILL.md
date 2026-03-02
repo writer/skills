@@ -6,7 +6,7 @@ metadata:
   display_name: "Loan Application Explanation"
   short_description: "Explain loan approval and denial decisions with reason codes"
   default_prompt: "Explain my loan application in simple words and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

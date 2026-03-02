@@ -6,7 +6,7 @@ metadata:
   display_name: "Schedule Optimization Advisor"
   short_description: "Optimize provider scheduling templates and patient access"
   default_prompt: "Optimize my provider scheduling templates and patient access and suggest the best next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

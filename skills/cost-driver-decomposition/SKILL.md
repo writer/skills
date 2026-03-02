@@ -6,7 +6,7 @@ metadata:
   display_name: "Cost Driver Decomposition"
   short_description: "Break down healthcare cost growth by contributing factors"
   default_prompt: "Analyze my cost driver decomposition and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

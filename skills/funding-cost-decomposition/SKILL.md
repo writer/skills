@@ -6,7 +6,7 @@ metadata:
   display_name: "Funding Cost Decomposition"
   short_description: "Break down bank funding costs, FTP curves, and drivers"
   default_prompt: "Analyze my funding cost decomposition and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

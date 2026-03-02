@@ -6,7 +6,7 @@ metadata:
   display_name: "Fraud Pattern Interpretation"
   short_description: "Interpret banking fraud detection signals and alerts"
   default_prompt: "Interpret my fraud pattern signals in simple words and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

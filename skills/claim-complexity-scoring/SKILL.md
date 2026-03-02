@@ -6,7 +6,7 @@ metadata:
   display_name: "Claim Complexity Scoring"
   short_description: "Score healthcare claim complexity for work queue triage"
   default_prompt: "Score my claim complexity and explain what to improve"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

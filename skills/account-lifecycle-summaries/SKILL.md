@@ -6,7 +6,7 @@ metadata:
   display_name: "Account Lifecycle Summaries"
   short_description: "Summarize full account history from opening through closure"
   default_prompt: "Summarize my account lifecycle with key findings and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

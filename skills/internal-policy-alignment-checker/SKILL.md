@@ -6,7 +6,7 @@ metadata:
   display_name: "Internal Policy Alignment Checker"
   short_description: "Check CPG activities against internal governance policies"
   default_prompt: "Check my internal policy alignment for gaps risks and required fixes"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

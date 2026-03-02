@@ -2,7 +2,7 @@
 
 > **200 production-grade agent skills** across three enterprise verticals: CPG & Retail E-Commerce, Healthcare, and Financial Services & Banking.
 
-**Version:** 1.0.0
+**Version:** 1.0.1
 
 ---
 

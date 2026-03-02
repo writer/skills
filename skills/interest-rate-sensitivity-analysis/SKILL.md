@@ -6,7 +6,7 @@ metadata:
   display_name: "Interest Rate Sensitivity Analysis"
   short_description: "Analyze interest rate risk impact on NII, EVE, and duration"
   default_prompt: "Analyze my interest rate sensitivity and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

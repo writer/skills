@@ -6,7 +6,7 @@ metadata:
   display_name: "Lead Time Variance Analyzer"
   short_description: "Diagnose supply chain lead time variances and delays"
   default_prompt: "Analyze my lead time variance and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

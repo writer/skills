@@ -6,7 +6,7 @@ metadata:
   display_name: "Operational Risk Narratives"
   short_description: "Write operational risk event loss narratives for banks"
   default_prompt: "Summarize my operational risk with key findings and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

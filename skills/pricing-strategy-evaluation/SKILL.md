@@ -6,7 +6,7 @@ metadata:
   display_name: "Pricing Strategy Evaluation"
   short_description: "Evaluate bank deposit and loan pricing effectiveness"
   default_prompt: "Evaluate my pricing strategy results and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

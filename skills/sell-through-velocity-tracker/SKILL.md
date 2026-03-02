@@ -6,7 +6,7 @@ metadata:
   display_name: "Sell Through Velocity Tracker"
   short_description: "Track product sell-through velocity against benchmarks"
   default_prompt: "Review my sell through velocity and highlight top risks and next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

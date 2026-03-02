@@ -6,7 +6,7 @@ metadata:
   display_name: "Audit Response Drafting"
   short_description: "Draft formal responses to bank regulatory exam findings"
   default_prompt: "Check my audit response for gaps risks and required fixes"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

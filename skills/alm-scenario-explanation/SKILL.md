@@ -6,7 +6,7 @@ metadata:
   display_name: "Alm Scenario Explanation"
   short_description: "Explain ALM scenarios and balance sheet structural risk"
   default_prompt: "Explain my alm scenario in simple words and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

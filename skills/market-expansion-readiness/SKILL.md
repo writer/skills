@@ -6,7 +6,7 @@ metadata:
   display_name: "Market Expansion Readiness"
   short_description: "Score CPG market expansion readiness by region and channel"
   default_prompt: "Optimize my market expansion and suggest the best next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

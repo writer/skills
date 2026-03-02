@@ -6,7 +6,7 @@ metadata:
   display_name: "Clinician Burnout Signal Detection"
   short_description: "Detect early warning signs of clinician burnout and fatigue"
   default_prompt: "Review my clinician burnout signal and highlight top risks and next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

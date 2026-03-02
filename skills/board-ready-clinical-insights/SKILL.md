@@ -6,7 +6,7 @@ metadata:
   display_name: "Board Ready Clinical Insights"
   short_description: "Translate clinical data into board-level summaries"
   default_prompt: "Check my board ready clinical insights for gaps risks and required fixes"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

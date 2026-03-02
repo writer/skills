@@ -6,7 +6,7 @@ metadata:
   display_name: "Investment Policy Mapping"
   short_description: "Check portfolio compliance against IPS allocation guidelines"
   default_prompt: "Map my investment policy and show key friction points and improvements"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

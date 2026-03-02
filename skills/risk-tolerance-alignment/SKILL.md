@@ -6,7 +6,7 @@ metadata:
   display_name: "Risk Tolerance Alignment"
   short_description: "Align portfolios with client risk tolerance per Reg BI"
   default_prompt: "Analyze my risk tolerance alignment and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

@@ -6,7 +6,7 @@ metadata:
   display_name: "Readmission Risk Explanation"
   short_description: "Explain 30-day readmission risk factors and drivers"
   default_prompt: "Explain my readmission risk in simple words and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

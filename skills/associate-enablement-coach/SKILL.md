@@ -6,7 +6,7 @@ metadata:
   display_name: "Associate Enablement Coach"
   short_description: "Create coaching playbooks for store associate enablement"
   default_prompt: "Help me with associate enablement and give clear next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

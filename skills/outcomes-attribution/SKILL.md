@@ -6,7 +6,7 @@ metadata:
   display_name: "Outcomes Attribution"
   short_description: "Attribute health outcomes to clinical interventions"
   default_prompt: "Analyze my outcomes attribution and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

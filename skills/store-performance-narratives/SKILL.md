@@ -6,7 +6,7 @@ metadata:
   display_name: "Store Performance Narratives"
   short_description: "Generate executive-ready store performance narratives"
   default_prompt: "Summarize my store performance with key findings and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

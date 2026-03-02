@@ -6,7 +6,7 @@ metadata:
   display_name: "Lab Result Explanation"
   short_description: "Interpret lab results with clinical context and trends"
   default_prompt: "Explain my lab result in simple words and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

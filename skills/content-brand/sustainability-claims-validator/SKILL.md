@@ -6,7 +6,7 @@ metadata:
   display_name: "Sustainability Claims Validator"
   short_description: "Validate ESG and sustainability claims for FTC compliance"
   default_prompt: "Check my sustainability claims for gaps risks and required fixes"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

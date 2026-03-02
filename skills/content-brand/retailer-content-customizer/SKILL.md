@@ -6,7 +6,7 @@ metadata:
   display_name: "Retailer Content Customizer"
   short_description: "Customize product content per retailer style guidelines"
   default_prompt: "Generate retailer content for my case with clear next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

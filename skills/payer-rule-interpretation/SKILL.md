@@ -6,7 +6,7 @@ metadata:
   display_name: "Payer Rule Interpretation"
   short_description: "Interpret payer-specific coverage rules and reimbursement"
   default_prompt: "Explain my payer rule in simple words and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

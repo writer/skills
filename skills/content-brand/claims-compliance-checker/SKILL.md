@@ -6,7 +6,7 @@ metadata:
   display_name: "Claims Compliance Checker"
   short_description: "Validate CPG product marketing claims against FTC/FDA rules"
   default_prompt: "Check my claims compliance for gaps risks and required fixes"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

@@ -10,7 +10,7 @@ metadata:
   display_name: "Category Performance Diagnosis"
   short_description: "Diagnose retail category performance drivers and changes"
   default_prompt: "Analyze my category performance diagnosis and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - commerce-intelligence
     - category-performance-diagnosis

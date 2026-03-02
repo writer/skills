@@ -6,7 +6,7 @@ metadata:
   display_name: "Inventory Risk Alerting"
   short_description: "Alert on overstock and stockout inventory risks by severity"
   default_prompt: "Review my inventory risk alerting and highlight top risks and next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

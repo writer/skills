@@ -6,7 +6,7 @@ metadata:
   display_name: "Collateral Risk Summaries"
   short_description: "Assess collateral risk and recovery for secured lending"
   default_prompt: "Summarize my collateral risk with key findings and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

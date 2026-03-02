@@ -6,7 +6,7 @@ metadata:
   display_name: "Retailer Negotiation Prep"
   short_description: "Prepare CPG-retailer negotiation strategy and trade terms"
   default_prompt: "Analyze my retailer negotiation prep and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

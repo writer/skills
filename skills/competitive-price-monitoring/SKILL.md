@@ -11,7 +11,7 @@ metadata:
   display_name: "Competitive Price Monitoring"
   short_description: "Monitor competitor pricing gaps, threats, and moves"
   default_prompt: "Review my competitive price and highlight top risks and next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - commerce-intelligence
     - competitive-price-monitoring

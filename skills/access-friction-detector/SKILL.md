@@ -6,7 +6,7 @@ metadata:
   display_name: "Access Friction Detector"
   short_description: "Detect and quantify healthcare access barriers by type"
   default_prompt: "Review my access friction and highlight top risks and next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

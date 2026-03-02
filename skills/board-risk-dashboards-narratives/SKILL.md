@@ -6,7 +6,7 @@ metadata:
   display_name: "Board Risk Dashboards Narratives"
   short_description: "Write board-ready risk dashboard narratives for banks"
   default_prompt: "Summarize my board risk dashboards with key findings and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

@@ -6,7 +6,7 @@ metadata:
   display_name: "Weekly Bank Exec Brief"
   short_description: "Generate weekly executive performance briefs for bank leaders"
   default_prompt: "Summarize my weekly bank exec with key findings and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

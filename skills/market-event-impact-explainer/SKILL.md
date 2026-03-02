@@ -6,7 +6,7 @@ metadata:
   display_name: "Market Event Impact Explainer"
   short_description: "Explain market event impact on client portfolios clearly"
   default_prompt: "Explain my market event impact in simple words and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

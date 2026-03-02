@@ -6,7 +6,7 @@ metadata:
   display_name: "Ugc Moderation Assistant"
   short_description: "Moderate user-generated reviews and product content"
   default_prompt: "Help me with ugc moderation and give clear next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

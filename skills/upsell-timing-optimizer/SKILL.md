@@ -11,7 +11,7 @@ metadata:
   display_name: "Upsell Timing Optimizer"
   short_description: "Optimize upsell timing, triggers, and offer structure"
   default_prompt: "Optimize my upsell timing and suggest the best next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

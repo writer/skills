@@ -6,7 +6,7 @@ metadata:
   display_name: "Patient Stratification Engine"
   short_description: "Stratify patients into risk tiers for care management"
   default_prompt: "Analyze my patient stratification and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

@@ -6,7 +6,7 @@ metadata:
   display_name: "Client Profile Summarization"
   short_description: "Summarize wealth management client profiles holistically"
   default_prompt: "Summarize my client profile with key findings and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

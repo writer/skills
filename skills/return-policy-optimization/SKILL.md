@@ -6,7 +6,7 @@ metadata:
   display_name: "Return Policy Optimization"
   short_description: "Optimize return policies using data-driven analysis"
   default_prompt: "Optimize my return policy and suggest the best next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

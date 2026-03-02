@@ -6,7 +6,7 @@ metadata:
   display_name: "Peer Comparison Analytics"
   short_description: "Benchmark provider performance against specialty-matched peers"
   default_prompt: "Analyze my peer comparison analytics and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

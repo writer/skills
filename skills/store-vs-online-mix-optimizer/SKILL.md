@@ -12,7 +12,7 @@ metadata:
   display_name: "Store vs. Online Mix Optimizer"
   short_description: "Optimize product allocation between store and e-commerce"
   default_prompt: "Optimize my store vs online mix and suggest the best next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - commerce-intelligence
     - store-vs-online-mix-optimizer

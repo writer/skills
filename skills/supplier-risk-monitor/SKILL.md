@@ -6,7 +6,7 @@ metadata:
   display_name: "Supplier Risk Monitor"
   short_description: "Score and monitor supplier reliability and delivery risks"
   default_prompt: "Review my supplier risk and highlight top risks and next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

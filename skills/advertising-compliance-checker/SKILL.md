@@ -6,7 +6,7 @@ metadata:
   display_name: "Advertising Compliance Checker"
   short_description: "Check CPG advertising content against FTC/FDA compliance"
   default_prompt: "Check my advertising compliance for gaps risks and required fixes"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

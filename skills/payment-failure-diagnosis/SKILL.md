@@ -6,7 +6,7 @@ metadata:
   display_name: "Payment Failure Diagnosis"
   short_description: "Diagnose payment processing failures across all payment rails"
   default_prompt: "Analyze my payment failure diagnosis and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

@@ -6,7 +6,7 @@ metadata:
   display_name: "Product Profitability Analysis"
   short_description: "Analyze bank product profitability with FTP-adjusted margins"
   default_prompt: "Analyze my product profitability and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

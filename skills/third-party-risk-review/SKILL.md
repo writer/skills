@@ -6,7 +6,7 @@ metadata:
   display_name: "Third Party Risk Review"
   short_description: "Assess healthcare vendor and business associate risk"
   default_prompt: "Check my third party risk for gaps risks and required fixes"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

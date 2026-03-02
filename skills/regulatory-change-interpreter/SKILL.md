@@ -6,7 +6,7 @@ metadata:
   display_name: "Regulatory Change Interpreter"
   short_description: "Interpret healthcare regulatory updates and impact"
   default_prompt: "Explain my regulatory change in simple words and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

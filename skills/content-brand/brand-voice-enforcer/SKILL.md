@@ -6,7 +6,7 @@ metadata:
   display_name: "Brand Voice Enforcer"
   short_description: "Enforce brand voice consistency across all content types"
   default_prompt: "Score my brand voice enforcer and explain what to improve"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

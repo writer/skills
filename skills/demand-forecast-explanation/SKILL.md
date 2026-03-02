@@ -6,7 +6,7 @@ metadata:
   display_name: "Demand Forecast Explanation"
   short_description: "Explain demand forecast drivers, bias, and deviations"
   default_prompt: "Explain my demand forecast in simple words and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

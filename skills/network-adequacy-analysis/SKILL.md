@@ -6,7 +6,7 @@ metadata:
   display_name: "Network Adequacy Analysis"
   short_description: "Assess provider network adequacy against CMS standards"
   default_prompt: "Analyze my network adequacy and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

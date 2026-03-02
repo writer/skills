@@ -6,7 +6,7 @@ metadata:
   display_name: "Weekly Exec Commerce Brief"
   short_description: "Generate weekly CPG commerce executive briefs with KPIs"
   default_prompt: "Summarize my weekly exec commerce with key findings and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

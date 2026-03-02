@@ -6,7 +6,7 @@ metadata:
   display_name: "Fraud Pattern Explanation"
   short_description: "Explain why transactions are flagged as potential fraud"
   default_prompt: "Explain my fraud pattern drivers in simple words and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

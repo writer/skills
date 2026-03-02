@@ -6,7 +6,7 @@ metadata:
   display_name: "Prior Auth Readiness Checker"
   short_description: "Check prior authorization submission readiness and gaps"
   default_prompt: "Check my prior auth for gaps risks and required fixes"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

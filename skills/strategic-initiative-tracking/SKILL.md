@@ -6,7 +6,7 @@ metadata:
   display_name: "Strategic Initiative Tracking"
   short_description: "Track strategic initiative milestones and portfolio health"
   default_prompt: "Review my strategic initiative tracking and highlight top risks and next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

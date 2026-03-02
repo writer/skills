@@ -11,7 +11,7 @@ metadata:
   display_name: "Influencer Fit Scoring"
   short_description: "Score influencer-brand partnership fit and alignment"
   default_prompt: "Score my influencer fit and explain what to improve"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

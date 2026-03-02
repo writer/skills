@@ -6,7 +6,7 @@ metadata:
   display_name: "Market Expansion Analysis"
   short_description: "Evaluate healthcare facility expansion and market viability"
   default_prompt: "Analyze my market expansion and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"

@@ -10,7 +10,7 @@ metadata:
   display_name: "Campaign Brief Generator"
   short_description: "Generate execution-ready marketing campaign briefs"
   default_prompt: "Summarize my execution ready marketing campaign with key findings and next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - cpg-retail
   icon_path: "assets/icon.png"

@@ -6,7 +6,7 @@ metadata:
   display_name: "Operational Resilience Planning"
   short_description: "Plan operational resilience for financial institutions"
   default_prompt: "Optimize my operational resilience and suggest the best next steps"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - financial-services
   icon_path: "assets/icon.png"

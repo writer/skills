@@ -6,7 +6,7 @@ metadata:
   display_name: "Multilingual Patient Content"
   short_description: "Create multilingual healthcare content for LEP patients"
   default_prompt: "Analyze my multilingual patient content and recommend clear next actions"
-  version: "1.0.0"
+  version: "1.0.1"
   tags:
     - healthcare
   icon_path: "assets/icon.png"
