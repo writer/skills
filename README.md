@@ -78,10 +78,6 @@ Fill in the three templates in `context-templates/` and keep them current. The s
 
 For PDP work, also provide product attribute data (a PIM export), the approved claims per category, and the current retailer style guides.
 
-## Installing
-
-Copy the skill folders (not `context-templates/`) into the agent's skills directory. For Claude Code, that is `~/.claude/skills/` or the project's `.claude/skills/`. Put the filled-in context files where the agent can read them, and point to them from the agent's system prompt or project instructions.
-
 ## What was dropped from the source repos, and why
 
 - **Fabricated or unsourced statistics and benchmarks.** Conversion-rate tables, "3x more likely to close" claims, send-time folklore, invented case studies in examples. These are the most dangerous content for a customer-facing agent.
@@ -96,4 +92,3 @@ Copy the skill folders (not `context-templates/`) into the agent's skills direct
 - **Removed as skills:** all of them. Most are internal-operations tools (clinical, revenue-cycle, risk, treasury, supply chain) or B2C analytics, outside a sales and marketing agent's job. Many contain unsourced benchmarks, and a few have regulatory or clinical errors.
 - **Kept as new and upgraded content:** the retailer selling motion (new skill 11), the industry playbooks and rules above, testing and diagnosis, CPG claims depth, retailer content syndication, voice audit, and paid-ad variants.
 
-Attribution for the source projects is in `NOTICE.md`.
