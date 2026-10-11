@@ -15,7 +15,7 @@ The most freedom, and the most responsibility.
 - **Required in specific cases:**
   - `brand`: for new products (except movies, books and music).
   - `gtin`: whenever the manufacturer assigned one.
-  - `mpn`: when there is no GTIN.
+  - `mpn`: required when there is no manufacturer-assigned GTIN, except that it is optional for custom-made products or products without a clearly associated MPN. Use the actual manufacturer-assigned value; never substitute a seller SKU or invent an identifier to fill a gap. Check the [current MPN specification](https://support.google.com/merchants/answer/6324482?hl=en).
   - `condition`: for used or refurbished items.
   - `item_group_id`: for variants in several major markets, including the US, UK, DE, FR, JP and BR.
 - **Never fabricate identifiers.** If none exists, use `identifier_exists` correctly.
