@@ -1,6 +1,6 @@
 # Enterprise GTM Skills
 
-Eleven skills for an AI agent that does enterprise sales and marketing: account targeting and ABM, complex deal execution, executive outreach, B2B marketing, and product detail page (PDP) content at catalog scale.
+Twelve skills for an AI agent that does enterprise sales and marketing: account targeting and ABM, complex deal execution, executive outreach, B2B marketing, product detail page (PDP) content at catalog scale, and validated system and process diagrams.
 
 They were consolidated from about 240 skills in five open-source repos. The set keeps the methods a strong model doesn't apply reliably on its own: rubrics, decision rules, evidence discipline, compliance checks, approval gates. It drops generic advice, tool plumbing, B2C and creator tactics, and every unsourced statistic.
 
@@ -19,6 +19,7 @@ They were consolidated from about 240 skills in five open-source repos. The set 
 | 9 | **b2b-content-and-campaigns** | Case studies and testimonials, executive thought leadership, web and landing pages, nurture and event email, launches and PR, campaign briefs. |
 | 10 | **pdp-content** | Product titles, bullets, descriptions, specs, FAQ, alt text, schema and feeds for brand.com and retailers, grounded in product attributes, compliance-checked, and run at catalog scale with QA. |
 | 11 | **retailer-jbp-and-line-review** | For CPG and brand key-account teams selling *into retailers*: category story and line review, new-item pitch, JBP and trade-term negotiation, promotion post-event analysis with true incrementality, price-increase talk tracks, OTIF and deductions. |
+| 12 | **system-and-process-diagrams** | Interactive, validated diagrams as one standalone HTML file: solution architecture, workflows and approval processes, API sequences, data flows, and lifecycle/status maps. Works from a description, a real codebase or pasted Mermaid. Ships its own render-and-check engine (Node 18+, no install). |
 
 ## How they fit together
 
@@ -33,6 +34,8 @@ account-targeting-and-research ─► executive-outreach ─► meeting-prep-and
        competitive-and-objections   business-case-and-proposal
                                                     
 b2b-content-and-campaigns        pdp-content        retailer-jbp-and-line-review
+
+system-and-process-diagrams  (architecture, workflow, sequence, dataflow and lifecycle visuals for any of the above)
             
   ALL customer-facing output ──► customer-facing-quality-gate ──► (human approval) ──► send/publish
 ```
@@ -85,7 +88,7 @@ For PDP work, also provide product attribute data (a PIM export), the approved c
 - **Manipulative tactics.** Fake scarcity, countdowns, decoy pricing, guilt-trip follow-ups, review gating, engagement bait.
 - **Enterprise-hostile scoring.** Rubrics that marked large companies down, or used venture funding as the main budget signal.
 - **Outdated technical advice.** FID as a Core Web Vital (replaced by INP), keyword density, FAQ and HowTo rich-result promises, retired ad features.
-- **Tool and plugin plumbing.** Connectors, Obsidian or vault workflows, PDF generators, image-model prompts, installer scripts, memory systems.
+- **Tool and plugin plumbing.** Connectors, Obsidian or vault workflows, PDF generators, image-model prompts, installer scripts, memory systems. The one exception is `system-and-process-diagrams`, whose bundled engine is what makes its diagrams validated rather than guessed.
 - **Personal-productivity and creator-economy skills.** Daily planners, meme comments, motivational quote posts, Instagram Reels.
 
 **From the Writer Enterprise Agent Skills Catalog** (`skills-main 3`, 200 skills listed, 190 actually present because of folder-name collisions):
