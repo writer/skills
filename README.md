@@ -1,6 +1,6 @@
 # Enterprise GTM Skills
 
-Twelve skills for an AI agent that does enterprise sales and marketing: account targeting and ABM, complex deal execution, executive outreach, B2B marketing, product detail page (PDP) content at catalog scale, and validated system and process diagrams.
+Thirteen skills for an AI agent that does enterprise sales and marketing: account targeting and ABM, complex deal execution, executive outreach, B2B marketing, AI-search visibility, product detail page (PDP) content at catalog scale, and validated system and process diagrams.
 
 They were consolidated from about 240 skills in five open-source repos. The set keeps the methods a strong model doesn't apply reliably on its own: rubrics, decision rules, evidence discipline, compliance checks, approval gates. It drops generic advice, tool plumbing, B2C and creator tactics, and every unsourced statistic.
 
@@ -20,6 +20,7 @@ They were consolidated from about 240 skills in five open-source repos. The set 
 | 10 | **pdp-content** | Product titles, bullets, descriptions, specs, FAQ, alt text, schema and feeds for brand.com and retailers, grounded in product attributes, compliance-checked, and run at catalog scale with QA. |
 | 11 | **retailer-jbp-and-line-review** | For CPG and brand key-account teams selling *into retailers*: category story and line review, new-item pitch, JBP and trade-term negotiation, promotion post-event analysis with true incrementality, price-increase talk tracks, OTIF and deductions. |
 | 12 | **system-and-process-diagrams** | Interactive, validated diagrams as one standalone HTML file: solution architecture, workflows and approval processes, API sequences, data flows, and lifecycle/status maps. Works from a description, a real codebase or pasted Mermaid. Ships its own render-and-check engine (Node 18+, no install). |
+| 13 | **ai-search-visibility-phrases** | Gets the brand into AI-assistant answers (ChatGPT, Perplexity, Gemini, AI Overviews): picks the best target phrase from the team's phrase library for a draft, finds a natural insertion point, and returns a before/after rewrite with the brand in the same sentence, in the right voice for the content type. |
 
 ## How they fit together
 
@@ -34,6 +35,8 @@ account-targeting-and-research ─► executive-outreach ─► meeting-prep-and
        competitive-and-objections   business-case-and-proposal
                                                     
 b2b-content-and-campaigns        pdp-content        retailer-jbp-and-line-review
+            │
+            └─► ai-search-visibility-phrases  (target phrases woven into the drafts)
 
 system-and-process-diagrams  (architecture, workflow, sequence, dataflow and lifecycle visuals for any of the above)
             
@@ -80,6 +83,8 @@ Fill in the three templates in `context-templates/` and keep them current. The s
 - **`brand-voice-and-restrictions.md`**: voice, banned words, restricted claims, required disclaimers, approval routing.
 
 For PDP work, also provide product attribute data (a PIM export), the approved claims per category, and the current retailer style guides.
+
+For AI-search visibility work, also keep a current phrase library (template in `ai-search-visibility-phrases/references/phrase-library-template.md`). It reveals which buyer questions you aren't winning yet, so keep the filled-in version private.
 
 ## What was dropped from the source repos, and why
 
