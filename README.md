@@ -22,6 +22,18 @@ They were consolidated from about 240 skills in five open-source repos. The set 
 | 12 | **system-and-process-diagrams** | Interactive, validated diagrams as one standalone HTML file: solution architecture, workflows and approval processes, API sequences, data flows, and lifecycle/status maps. Works from a description, a real codebase or pasted Mermaid. Ships its own render-and-check engine (Node 18+, no install). |
 | 13 | **ai-search-visibility-phrases** | Gets the brand into AI-assistant answers (ChatGPT, Perplexity, Gemini, AI Overviews): picks the best target phrase from the team's phrase library for a draft, finds a natural insertion point, and returns a before/after rewrite with the brand in the same sentence, in the right voice for the content type. |
 
+## Cross-functional skills
+
+Five skills for work outside sales and marketing. WRITER turns them on for new users based on the role they pick during onboarding.
+
+| # | Skill | Use it for |
+|---|---|---|
+| 14 | **transcript-to-requirements** | Turns a discovery call, working session or stakeholder interview transcript into a formal requirements document: stated and inferred requirements with direct quotes, constraints, open questions and assumptions. |
+| 15 | **stakeholder-requirements** | Maps each stakeholder's needs, pains, success criteria and likely objections from a multi-stakeholder meeting transcript, with an alignment matrix, tensions and per-person engagement advice. |
+| 16 | **market-sizing** | Defensible TAM/SAM/SOM, spend-pool or upside estimates: confirms scope first, then a cited input table, the full calculation chain, a sensitivity range and a confidence rating. |
+| 17 | **project-timeline** | Turns a proposal, SOW, spec or meeting notes into a sprint plan with dependencies, critical path, gaps and a text Gantt, plus an interactive HTML timeline. |
+| 18 | **executive-presentation-coach** | Audits a deck for an executive audience against twelve consulting and leadership practices: prioritized fixes with rewrites, a rewritten opening, likely hard questions and slide-by-slide notes. |
+
 ## How they fit together
 
 ```
