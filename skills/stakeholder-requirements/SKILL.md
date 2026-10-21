@@ -5,7 +5,7 @@ metadata:
   display_name: "Stakeholder Requirements"
   short_description: "Map each stakeholder's needs, priorities, and concerns from meeting transcripts"
   default_prompt: "Map out stakeholder needs and priorities from this meeting transcript"
-  icon_path: "assets/icon.png"
+  icon_path: "assets/icon.webp"
 ---
 
 # Stakeholder Requirements

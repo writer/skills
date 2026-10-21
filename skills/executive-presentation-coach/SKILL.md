@@ -5,7 +5,7 @@ metadata:
   display_name: "Executive Presentation Coach"
   short_description: "Audit and fix presentations for executive audiences using McKinsey, Bain, BCG, and leadership best practices"
   default_prompt: "Coach my presentation for an executive audience: [paste slide text or upload deck]"
-  icon_path: "assets/icon.png"
+  icon_path: "assets/icon.webp"
 ---
 
 # Executive Presentation Coach

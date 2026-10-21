@@ -5,7 +5,7 @@ metadata:
   display_name: "Project Timeline"
   short_description: "Turn proposals, scope docs, and specs into structured sprint plans with interactive HTML timelines"
   default_prompt: "Turn this project document into a sprint plan with an interactive timeline"
-  icon_path: "assets/icon.png"
+  icon_path: "assets/icon.webp"
 ---
 
 # Project Timeline

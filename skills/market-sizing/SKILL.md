@@ -5,7 +5,7 @@ metadata:
   display_name: "Market Sizing"
   short_description: "Produce defensible market size estimates with cited sources and sensitivity ranges"
   default_prompt: "Size the market for [product/category] in [geography] over [time horizon]"
-  icon_path: "assets/icon.png"
+  icon_path: "assets/icon.webp"
 ---
 
 # Market Sizing

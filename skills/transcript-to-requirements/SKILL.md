@@ -5,7 +5,7 @@ metadata:
   display_name: "Transcript to Requirements"
   short_description: "Transform discovery call and stakeholder interview transcripts into formal requirements documents"
   default_prompt: "Extract a formal requirements document from this discovery call transcript"
-  icon_path: "assets/icon.png"
+  icon_path: "assets/icon.webp"
 ---
 
 # Transcript to Requirements
