@@ -2,7 +2,6 @@
 name: transcript-to-requirements
 description: "Extracts and structures discovery call, working session, or stakeholder interview transcripts into formal requirements documents with six defined sections: meeting context, stated requirements, inferred requirements, constraints, open questions, and assumptions. Use this skill whenever a transcript from a requirements-gathering conversation needs to be turned into a structured requirements document."
 metadata:
-  display_name: "Transcript to Requirements"
   short_description: "Transform discovery call and stakeholder interview transcripts into formal requirements documents"
   default_prompt: "Extract a formal requirements document from this discovery call transcript"
   icon_path: "assets/icon.webp"

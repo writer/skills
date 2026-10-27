@@ -2,7 +2,6 @@
 name: market-sizing
 description: "Produces defensible market size estimates for a specified market or opportunity. Clarifies scope before sizing, chooses a method (top-down, bottom-up, or value-based), researches and cites public sources, separates facts from assumptions, builds a full calculation chain with sensitivity ranges, and rates overall confidence. Use this skill whenever a market size, TAM/SAM/SOM, spend pool, or expansion upside estimate is needed."
 metadata:
-  display_name: "Market Sizing"
   short_description: "Produce defensible market size estimates with cited sources and sensitivity ranges"
   default_prompt: "Size the market for [product/category] in [geography] over [time horizon]"
   icon_path: "assets/icon.webp"
