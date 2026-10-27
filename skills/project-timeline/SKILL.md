@@ -2,7 +2,6 @@
 name: project-timeline
 description: "Turns proposals, scope docs, statements of work, technical specs, or meeting notes into a structured project timeline formatted as a sprint plan. Produces a project summary, sprint-by-sprint breakdown with work items and dependencies, a dependency map, critical path, gaps and assumptions, and a text-based Gantt visualization. Also generates an interactive HTML project timeline from the analysis. Use this skill whenever a project document needs to be converted into an actionable sprint plan with a visual timeline."
 metadata:
-  display_name: "Project Timeline"
   short_description: "Turn proposals, scope docs, and specs into structured sprint plans with interactive HTML timelines"
   default_prompt: "Turn this project document into a sprint plan with an interactive timeline"
   icon_path: "assets/icon.webp"

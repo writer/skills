@@ -2,7 +2,6 @@
 name: stakeholder-requirements
 description: "Maps each stakeholder's needs, priorities, and concerns from a meeting transcript with multiple stakeholders. Produces a stakeholder roster, per-person needs map, alignment matrix, conflict analysis, and engagement recommendations. Use this skill whenever a transcript from a multi-stakeholder meeting needs to be turned into a per-person strategy for tailoring your approach."
 metadata:
-  display_name: "Stakeholder Requirements"
   short_description: "Map each stakeholder's needs, priorities, and concerns from meeting transcripts"
   default_prompt: "Map out stakeholder needs and priorities from this meeting transcript"
   icon_path: "assets/icon.webp"

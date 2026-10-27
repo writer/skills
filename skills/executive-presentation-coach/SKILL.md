@@ -2,7 +2,6 @@
 name: executive-presentation-coach
 description: Audit and fix presentations for senior executive audiences using twelve best practices from McKinsey, Bain, BCG, and leadership communicators (Minto, Duarte, Gallo, Kawasaki, Reynolds). Use when someone is preparing a deck for an executive audience and wants a structured critique with prioritized fixes, a rewritten opening, likely audience questions, and slide-by-slide notes.
 metadata:
-  display_name: "Executive Presentation Coach"
   short_description: "Audit and fix presentations for executive audiences using McKinsey, Bain, BCG, and leadership best practices"
   default_prompt: "Coach my presentation for an executive audience: [paste slide text or upload deck]"
   icon_path: "assets/icon.webp"
